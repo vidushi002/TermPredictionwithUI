@@ -1,1 +1,1 @@
-# TermPredictionwithUI
+# TermPredictionWithUI
